@@ -1,4 +1,10 @@
-## Hi there 👋
+Hey, I'm Robiat 💗
+
+I'm a Mathematics student who enjoys working with data and exploring different areas of tech.
+
+I've been learning through projects, from cleaning messy datasets to building pipelines and working with databases. I'm also exploring data science, so I'm giving myself room to try different things and figure out what I enjoy most.
+
+This is where I keep some of the things I've worked on and what I'm learning along the way.
 
 <!--
 **Robiah-9/Robiah-9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
