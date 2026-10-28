@@ -1,4 +1,4 @@
-Hey, I'm Robiat 💗
+Hey, I'm Robiah 💗
 
 I'm a Mathematics student who enjoys working with data and exploring different areas of tech.
 
